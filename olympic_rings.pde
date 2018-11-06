@@ -1,1 +1,24 @@
-// add olympic rings code here
+size(400,300);
+stroke(23, 88, 193);
+strokeWeight(10);
+noFill();
+ellipse(70,70,120,120);
+//
+stroke(0);
+strokeWeight(10);
+ellipse(200,70,120,120);
+//
+stroke(223,0,36);
+strokeWeight(10);
+noFill();
+ellipse(330,70,120,120);
+//
+stroke(244,195,0);
+strokeWeight(10);
+noFill();
+ellipse(130,135,120,120);
+//
+stroke(0,159,61);
+strokeWeight(10);
+noFill();
+ellipse(265,135,120,120);
